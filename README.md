@@ -3,10 +3,10 @@ RTakuzu is an R package that implements the core logic of the Takuzu puzzle game
 
 ### 🎮 **Game Rules**
 
-**-** Each row and column should have an equal number of 0s and 1s.
-**-** You can’t have more than two of the same number (0 or 1) in a row.
-**-** Every row and column must be different—no duplicates allowed.
-**-** Click a cell to cycle through: empty → 0 → 1 → back to empty.
+Each row and column should have an equal number of 0s and 1s.
+You can’t have more than two of the same number (0 or 1) in a row.
+Every row and column must be different—no duplicates allowed.
+Click a cell to cycle through: empty → 0 → 1 → back to empty.
 
 ### 🔧 **Installation**
 
