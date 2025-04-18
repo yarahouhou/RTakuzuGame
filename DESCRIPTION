@@ -1,0 +1,13 @@
+Package: RTakuzogame
+Type: Package
+Title: Takuzu Game in Shiny
+Version: 0.1.0
+Author: Your Name
+Maintainer: Your Name <you@example.com>
+Description: A Shiny-based interactive 8x8 Takuzu puzzle game.
+Depends: R (>= 4.0)
+Imports:
+    shiny
+License: MIT
+Encoding: UTF-8
+LazyData: true
